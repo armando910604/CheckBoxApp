@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CHECK BOX</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mensaje">MENSAJE</string>
+    <string name="msg">MENSAJE</string>
+    <string name="mas">MASCULINO</string>
+    <string name="fem">FEMENINO</string>
+    <string name="saludof">HOLA CHICA</string>
+    <string name="saludom">HOLA CHICO</string>
+    <string name="env">ENVIAR</string>
+    <string name="aviso">SELECCIONA SOLO UNA OPCION</string>
+    <string name="aviso2">SELECCIONA UNA OPCION</string>
+</resources>
